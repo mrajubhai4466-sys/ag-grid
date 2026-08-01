@@ -73,7 +73,7 @@
     "jest-text-transformer": "^1.0.4",
     "knip": "5.62.0",
     "node-fetch": "2.7.0",
-    "nx": "20.3.1",
+    "nx": "22.7.2",
     "octokit": "^4.0.2",
     "patch-package": "^8.0.0",
     "postcss-import": "^16.1.0",
